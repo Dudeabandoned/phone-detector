@@ -31,7 +31,7 @@ Edit the configuration section at the top of `main.py`:
 
 ```python
 MODEL_PATH = "yolo11s.pt" # YOLO model to use (use yolo11n.pt if your computer is slow)
-VIDEO_PATH = "sample_video.mp4" # Sample video included, or replace with your own
+VIDEO_PATH = "Y2Mate.is_-_Just_some_Funny_Memes_I_found_on_Discord_83-sS-rWrZy9Qs-720p-1658278295870.mp4" # Sample video included, or replace with your own
 ```
 
 Advanced config:
